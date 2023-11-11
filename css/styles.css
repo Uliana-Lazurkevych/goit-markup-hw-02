@@ -19,9 +19,6 @@ body {
   background-color: var(--white);
 }
 
-img {
-  max-width: 100%;
-}
 
 .list {
   list-style: none;
