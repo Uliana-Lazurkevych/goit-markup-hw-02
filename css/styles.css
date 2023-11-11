@@ -67,7 +67,7 @@ button {
   color: var(--ocean);
 }
 
-.adress-link {
+.address-link {
   color: var(--slate);
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -76,8 +76,8 @@ button {
   letter-spacing: 0.02em;
 }
 
-.adress-link:hover,
-.adress-link:focus {
+.address-link:hover,
+.address-link:focus {
   color: var(--ocean);
 }
 
